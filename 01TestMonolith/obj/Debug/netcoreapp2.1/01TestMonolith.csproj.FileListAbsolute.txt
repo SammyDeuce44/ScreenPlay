@@ -1,0 +1,8 @@
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\bin\Debug\netcoreapp2.1\01TestMonolith.deps.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\bin\Debug\netcoreapp2.1\01TestMonolith.runtimeconfig.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\bin\Debug\netcoreapp2.1\01TestMonolith.runtimeconfig.dev.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\bin\Debug\netcoreapp2.1\01TestMonolith.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\obj\Debug\netcoreapp2.1\01TestMonolith.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\obj\Debug\netcoreapp2.1\01TestMonolith.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\obj\Debug\netcoreapp2.1\01TestMonolith.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\01TestMonolith\obj\Debug\netcoreapp2.1\01TestMonolith.AssemblyInfo.cs
