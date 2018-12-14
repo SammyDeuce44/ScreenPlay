@@ -6,3 +6,9 @@ C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\De
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.csproj.CoreCompileInputs.cache
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.AssemblyInfoInputs.cache
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.AssemblyInfo.cs
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\04TestAnnotations.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.pdb

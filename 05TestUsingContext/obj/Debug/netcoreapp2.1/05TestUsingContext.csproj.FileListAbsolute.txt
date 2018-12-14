@@ -6,3 +6,9 @@ C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\D
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.csproj.CoreCompileInputs.cache
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.AssemblyInfoInputs.cache
 C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.AssemblyInfo.cs
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\05TestUsingContext.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.pdb
