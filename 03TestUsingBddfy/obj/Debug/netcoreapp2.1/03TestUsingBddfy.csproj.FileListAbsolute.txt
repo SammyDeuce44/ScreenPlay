@@ -1,0 +1,14 @@
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\03TestUsingBddfy.deps.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\03TestUsingBddfy.runtimeconfig.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\03TestUsingBddfy.runtimeconfig.dev.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\03TestUsingBddfy.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.AssemblyInfo.cs
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\bin\Debug\netcoreapp2.1\03TestUsingBddfy.pdb
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\03TestUsingBddfy\obj\Debug\netcoreapp2.1\03TestUsingBddfy.pdb

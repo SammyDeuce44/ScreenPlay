@@ -1,0 +1,8 @@
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\bin\Debug\netcoreapp2.1\02PageObjectPattern.deps.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\bin\Debug\netcoreapp2.1\02PageObjectPattern.runtimeconfig.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\bin\Debug\netcoreapp2.1\02PageObjectPattern.runtimeconfig.dev.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\bin\Debug\netcoreapp2.1\02PageObjectPattern.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\obj\Debug\netcoreapp2.1\02PageObjectPattern.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\obj\Debug\netcoreapp2.1\02PageObjectPattern.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\obj\Debug\netcoreapp2.1\02PageObjectPattern.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\02PageObjectPattern\obj\Debug\netcoreapp2.1\02PageObjectPattern.AssemblyInfo.cs

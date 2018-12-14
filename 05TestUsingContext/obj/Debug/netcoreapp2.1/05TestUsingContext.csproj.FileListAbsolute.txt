@@ -1,0 +1,8 @@
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\05TestUsingContext.deps.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\05TestUsingContext.runtimeconfig.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\05TestUsingContext.runtimeconfig.dev.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\bin\Debug\netcoreapp2.1\05TestUsingContext.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\05TestUsingContext\obj\Debug\netcoreapp2.1\05TestUsingContext.AssemblyInfo.cs

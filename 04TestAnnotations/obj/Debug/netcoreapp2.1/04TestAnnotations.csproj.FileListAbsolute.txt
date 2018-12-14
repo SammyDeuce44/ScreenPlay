@@ -1,0 +1,8 @@
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\04TestAnnotations.deps.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\04TestAnnotations.runtimeconfig.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\04TestAnnotations.runtimeconfig.dev.json
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\bin\Debug\netcoreapp2.1\04TestAnnotations.dll
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.csprojAssemblyReference.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.AssemblyInfoInputs.cache
+C:\Users\samuel.babalola\source\repos\ScreenPlayProject\04TestAnnotations\obj\Debug\netcoreapp2.1\04TestAnnotations.AssemblyInfo.cs
